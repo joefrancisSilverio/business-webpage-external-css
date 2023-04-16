@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+a { 
+    color: #738ADB;
+    text-decoration-line: none;
+}
+th {
+    font-size: 16px;
+}
+a:hover {
+    text-decoration-line: underline;
+}

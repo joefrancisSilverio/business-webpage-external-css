@@ -1,0 +1,24 @@
+body {
+    background-color: #121212;
+    font-family: monospace;
+    font-size: 16px;
+    color: white;
+}
+h1 {
+    color: powderblue;
+}
+td {
+    background-color: #738ADB;
+    text-align: center;
+}
+a {
+    color: white;
+    font-size: 16px;
+    text-decoration-line: none;
+}
+td:hover {
+    background-color: #7dcfb6;
+}
+a:hover {
+    color: black;
+}

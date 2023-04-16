@@ -1,0 +1,16 @@
+body {
+    background-color: #121212;
+    color: #3cff9a;
+    font-size: 16px;
+    font-family: monospace;
+}
+a {
+    color: #738ADB;
+    text-decoration-line: none;
+}
+input {
+    font-family: monospace;
+}
+a:hover {
+    text-decoration-line: underline;
+}

@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    font-size: 22px;
+    text-align: right;
+}
+a {
+    text-decoration-line: none;
+    color: white;
+}
+
+a:hover {
+    color: #88e0fa;
+    text-decoration-line: underline;
+}

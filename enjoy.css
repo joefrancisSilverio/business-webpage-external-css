@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    font-family: monospace;
+}
+td {
+    color: #3cff9a;
+}
+th {
+    color: white;
+    font-size: 16px;
+}
+td:hover {
+    color: powderblue;
+    text-decoration-line: underline;
+}

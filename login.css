@@ -1,0 +1,19 @@
+body {
+    background-color: #121212;
+    font-family: monospace;
+    font-size: 16px;
+    color: #3cff9a;
+}
+a {
+    color: #738ADB;
+    text-decoration: none;
+}
+p {
+    color: #3cff9a;
+}
+input {
+    font-family: monospace;
+}
+a:hover {
+    text-decoration:underline;
+}
